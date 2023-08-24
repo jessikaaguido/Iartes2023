@@ -1,0 +1,4 @@
+[
+  "tests.py::TestTelefone::test_format_cod_area_invalido",
+  "tests.py::TestTelefone::test_tam_invalido"
+]
